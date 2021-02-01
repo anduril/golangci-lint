@@ -11,7 +11,7 @@ require (
 	github.com/daixiang0/gci v0.2.4
 	github.com/denis-tingajkin/go-header v0.3.1
 	github.com/fatih/color v1.10.0
-	github.com/go-critic/go-critic v0.5.2
+	github.com/go-critic/go-critic v0.5.4
 	github.com/go-xmlfmt/xmlfmt v0.0.0-20191208150333-d5b6f63a941b
 	github.com/gofrs/flock v0.8.0
 	github.com/golangci/check v0.0.0-20180506172741-cfe4005ccda2
@@ -67,7 +67,7 @@ require (
 	github.com/valyala/quicktemplate v1.6.3
 	golang.org/x/sys v0.0.0-20201009025420-dfb3f7c4e634 // indirect
 	golang.org/x/text v0.3.4 // indirect
-	golang.org/x/tools v0.0.0-20201013201025-64a9e34f3752
+	golang.org/x/tools v0.0.0-20201230224404-63754364767c
 	gopkg.in/yaml.v2 v2.4.0
 	honnef.co/go/tools v0.0.1-2020.1.6
 	mvdan.cc/gofumpt v0.0.0-20200802201014-ab5a8192947d
